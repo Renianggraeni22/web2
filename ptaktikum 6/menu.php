@@ -13,6 +13,11 @@
                                 <div class="sb-nav-link-icon"><i class="fas fa-edit"></i></div>
                                 Registrasi
                             </a>
+
+                            <a class="nav-link" href="pasien.php">
+                                <div class="sb-nav-link-icon"><i class="fas fa-users"></i></div>
+                                Pasien
+                            </a>
                         </div>
                     </div>
                     <div class="sb-sidenav-footer">
